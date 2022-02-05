@@ -13,8 +13,8 @@ function Home() {
                 <ul className='navbar d__flex'>
                     <a href='#Home'><li className='nav__items mx__15'>Home</li></a>
                     <a href='#About'><li className='nav__items mx__15'>About</li></a>
-                    <a href='#Services'><li className='nav__items mx__15'>Services</li></a>
-                    <a href='#Portfolio'><li className='nav__items mx__15'>Portfolio</li></a>
+                    <a href='#Service'><li className='nav__items mx__15'>Services</li></a>
+                    <a href='#Portfolio'><li className='nav__items mx__15'>Projects</li></a>
                     <a href='#Contact'><li className='nav__items mx__15'>Contact</li></a>
                 </ul>
               </div>
@@ -24,9 +24,10 @@ function Home() {
                   <div className='home__content'>
                     <div className='home__meta'>
                     <h1 className='home__text pz__10'>
-                        WELCOME TO MY WORLD
+                        Hi I'm Bailey Sisomphane,  <br></br>
+                        a Full-Stack Web Developer <br></br>based in Dallas, TX
                     </h1>
-                    <h2 className='home__text pz__10'>
+                    {/* <h2 className='home__text pz__10'>
                         Hi, I'm Bailey Sisomphane
                     </h2>
                     <h3 className='home__text sweet'>
@@ -34,7 +35,7 @@ function Home() {
                     </h3>
                     <h4 className='home__text pz__10'>
                         based in Dallas, TX
-                    </h4>
+                    </h4> */}
                     </div>
                     </div>
               </div>

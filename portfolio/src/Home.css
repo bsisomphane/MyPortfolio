@@ -15,10 +15,11 @@ li.nav__items{
 }
 
 h1.home__text{
-    font-size: 18px;
-    font-weight: 400;
-    letter-spacing: 3px;
-    color: rgba(198,201,216,.75)!important;
+    font-size: 30px;
+    font-weight: 10;
+    letter-spacing: 2px;
+    font-style: normal;
+    color: rgba(255, 255, 255, 0.75)!important;
 }
 
 h2.home__text{

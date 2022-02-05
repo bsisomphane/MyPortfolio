@@ -5,7 +5,7 @@ function Service() {
     return (
         <div className='service componet__space'>
             <div className='heading'>
-                <h1 className='heading'>My Awesome Service</h1>
+                <h1 className='heading'>My Services</h1>
                 <p className='heading p__color'>Here are services I provide:</p>
                 <p className='heading p__color'></p>
             </div>
@@ -53,8 +53,10 @@ function Service() {
                                 <h1 className='service__text'>
                                             Mobile Development
                                         </h1>
-                                        <p className='p service__text p__color'>Hello</p>
-                                        <p className='p service__text p__color'>Hello</p>
+                                        <p className='p service__text p__color'>In today's world, mobile devices are the main machines that websites are bing veiwed on.</p>
+                                        <p className='p service__text p__color'>Developing a website that is designed to perform in today's competitive marketplace is essential.
+
+</p>
                                         <p className='p service__text p__color'>Hello</p>
                                 </div>
                         </div>
@@ -69,9 +71,9 @@ function Service() {
                                 <h1 className='service__text'>
                                             Web Development
                                         </h1>
-                                        <p className='p service__text p__color'>Hello</p>
-                                        <p className='p service__text p__color'>Hello</p>
-                                        <p className='p service__text p__color'>Hello</p>
+                                        <p className='p service__text p__color'>A professional and clean website is important for any business to succeed in the online world. </p>
+                                        <p className='p service__text p__color'>Modern web design is more involved than creating an attractive website.</p>
+                                        <p className='p service__text p__color'>Consideration of user experience, search engine optimization, ease of use, and technical details are things I focus on.</p>
                                 </div>
                         </div>
                     </div>
